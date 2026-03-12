@@ -4,7 +4,7 @@ I am Satish Kumar
 </div> 
 
 
-"Dream it, I'll build it. As a Full Stack and Python Programmer, I leverage AI to turn your ideas into functional software, incredibly fast."
+"BCA Stuent | Learning programming | Youtuber with 800k+ and 200k+ subscribers."
 
 👨‍💻Want to know more about me? <a href="https://www.youtube.com/@7satishkumar" target="_blank" alt="Satish Kumar YT" >Check out my youtube</a>
 
@@ -37,14 +37,9 @@ I am Satish Kumar
 <p align="left">
 <!-- Figma -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<!-- Postman -->
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<!-- Sanity -->
-<a href="https://www.sanity.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSReHvByZkJhXRzuDuLPfYtmdNlOk6JsTRn1w&s" alt="sanity" height="40"/> </a>
-<!-- Law -->
-<a href="#law" target="_blank" rel="noreferrer"> <img src="https://img.freepik.com/premium-vector/gavel-icon-vector-law-judge-s-hammer-symbol-sign-auction-hammer-isolated-white_359398-607.jpg" alt="law" width="40" height="40"/> </a>
+>
   <!-- Video Editing -->
-  <a href="https://wordpress.org/download/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21~bgwhite.svg" alt="wordpress" height="40"/> </a>
+  <a href="#video_editing" target="_blank" rel="noreferrer"> <img src="https://www.vecteezy.com/free-png/video-logo" alt="wordpress" height="40"/> </a>
 </p>
   
 
