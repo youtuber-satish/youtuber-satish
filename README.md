@@ -39,7 +39,7 @@ I am Satish Kumar
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 >
   <!-- Video Editing -->
-  <a href="#video_editing" target="_blank" rel="noreferrer"> <img src="https://www.vecteezy.com/free-png/video-logo" alt="wordpress" height="40"/> </a>
+  <a href="#video_editing" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/thumbnails/010/952/951/small/movie-film-editor-logo-design-video-editing-logo-concept-vector.jpg" alt="video editing" height="40"/> </a>
 </p>
   
 
